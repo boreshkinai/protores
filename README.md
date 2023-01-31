@@ -7,7 +7,7 @@
   </p>
 </p>
 
-![Alt Text](./fig/kung_fusupercut.gif)
+![Alt Text](./kung_fusupercut.gif)
 
 The repository has been transferred in the unity codebase. Please access here: https://github.com/Unity-Technologies/Labs/tree/main/Projects/ProtoRes/code
 
